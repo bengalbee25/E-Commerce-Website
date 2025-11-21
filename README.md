@@ -90,7 +90,7 @@ htdocs/
 Then visit:
 
 ```
-http://localhost/Ecommerce%20Website%20Final/
+http://localhost/E-Commerce-Website/
 ```
 
 ---
