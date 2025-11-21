@@ -3,6 +3,7 @@
 A fully functional eCommerce web application built using **PHP**, **MySQL**, **Bootstrap**, and **HTML/CSS**.
 This project includes user authentication, admin dashboard, product management, cart functionality, and search features.
 
+---
 
 ## 📌 Features
 
@@ -26,10 +27,12 @@ This project includes user authentication, admin dashboard, product management, 
 * View users
 * Product image upload system
 
+---
 
 ## 📁 Project Structure
 
-E-Commerce-Website/
+```
+Ecommerce Website Final/
 │── admin_area/          # Admin dashboard pages
 │── bootstrap/           # Bootstrap CSS & JS
 │── cart.php             # Shopping cart page
@@ -43,7 +46,9 @@ E-Commerce-Website/
 │── search_product.php   # Search results
 │── style.css            # Custom styling
 │── users_area/          # User login & registration
+```
 
+---
 
 ## ⚙️ Installation & Setup
 
@@ -98,6 +103,7 @@ http://localhost/Ecommerce%20Website%20Final/
 * **Bootstrap 4/5**
 * **JavaScript**
 
+---
 
 ## 🧪 Testing & Debugging Notes
 
@@ -107,6 +113,7 @@ http://localhost/Ecommerce%20Website%20Final/
 * Fixed layout misalignment using Bootstrap grid system
 * Used browser DevTools + PHP error logs for debugging
 
+---
 
 ## 🚀 Future Improvements
 
@@ -115,7 +122,9 @@ http://localhost/Ecommerce%20Website%20Final/
 * Add order tracking system
 * Improve UI using modern Bootstrap components
 
+---
 
 ## 📄 License
 
-his project is licensed under Apache License 2.0. See the LICENSE file for details.
+This project is licensed under Apache License 2.0. See the LICENSE file for details.
+
