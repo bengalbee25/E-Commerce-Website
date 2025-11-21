@@ -4,7 +4,7 @@ $hostname = 'localhost';
 $username = 'root';
 $password = '';
 $database = 'mystore1';
-$port = 3307;
+$port = 3306;
 
 // Create connection
 $con = mysqli_connect($hostname, $username, $password, $database, $port);
